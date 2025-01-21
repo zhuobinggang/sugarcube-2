@@ -88,4 +88,16 @@
 	/* Macros. */
 	l10nStrings.macroBackText   = '返回';
 	l10nStrings.macroReturnText = '返回';
+
+	/* Adaption for sugarcube update */
+	l10nStrings.continueTitle = '继续';
+	l10nStrings.savesHeaderBrowser = '存储到浏览器';
+	l10nStrings.savesHeaderDisk = '存储到本地';
+	l10nStrings.savesTextBrowserSlot = '存储槽';
+	l10nStrings.textTurn = '游戏步数';
+	l10nStrings.textExport = '导出';
+	l10nStrings.textImport = '导入';
+	l10nStrings.textClear = '清除所有存储';
+	l10nStrings.textSave = '保存';
+	l10nStrings.textLoad = '加载';
 })();
